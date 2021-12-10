@@ -1,0 +1,38 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+}
+
+
+N
+
+int N;
+cin >> N;
+
+A B
+
+int A, B;
+cin >> A >> B;
+
+N
+a1 a2 a3 ... aN
+
+int N;
+cin >> N;
+int arr[N];
+for(int i = 0; i < N; ++i){
+  cin >> arr[i];
+}
+
+#include <vector>
+int N = 0;
+cin >> N;
+
+int d = 0;
+vector<int> D(N);
+for (int i = 0; i < N; ++i) {
+	cin >> d;
+	D.push_back(d);
+}
