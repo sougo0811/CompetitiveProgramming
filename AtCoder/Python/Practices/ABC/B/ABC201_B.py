@@ -1,0 +1,5 @@
+N = int(input())
+ST = dict(map(str,input().split()) for _ in range(N))
+ST_sort = dict(sorted(ST.items(), key=lambda x:int(x[1]), reverse=True))
+S = list(ST_sort.keys())
+print(S[1])
