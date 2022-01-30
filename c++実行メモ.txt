@@ -2,6 +2,10 @@
 g++ ファイル名.cpp -o ファイル名
 -o ファイル名 がない場合 a.exe にコンパイルされる。
 
+ディレクトリ指定
+AtCoder/C++/Contests/
+AtCoder/C++/Practices/
+
 実行
 ./ファイル名
 ./a.exe （ファイル名がない場合）
