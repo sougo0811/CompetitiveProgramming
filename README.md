@@ -5,5 +5,5 @@
 # AtCorder
 https://atcoder.jp/users/yatoi<br>
 <b>Name:</b>yatoi<br>
-<b>Rate:</b>231<br>
+<b>Rate:</b>228<br>
 <b>Color:</b>gray<br>
