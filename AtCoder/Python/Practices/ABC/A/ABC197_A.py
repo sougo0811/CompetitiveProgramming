@@ -1,0 +1,5 @@
+S = list(input())
+S.append(S[0])
+S.pop(0)
+S = "".join(S)
+print(S)
