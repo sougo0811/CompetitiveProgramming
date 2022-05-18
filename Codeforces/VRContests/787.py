@@ -34,6 +34,7 @@ for i in range(t):
 '''
 
 #B
+'''
 import copy
 t = int(input())
 for i in range(t):
@@ -74,3 +75,4 @@ for i in range(t):
       if an == an_new:
         flg = False
         break
+'''
