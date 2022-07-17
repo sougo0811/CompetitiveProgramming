@@ -47,3 +47,13 @@ for j in WN:
 '''
 
 N,X,Y = map(int,input().split())
+blue_clystal = 0
+red_clystal = 1
+
+while N>=2:
+  blue_clystal += red_clystal*X
+  red_clystal += blue_clystal
+  blue_clystal*=Y
+  N-=1
+
+print(blue_clystal)
