@@ -25,12 +25,12 @@ ANN = []
 for i in range(N):
   AN = list(input())
   ANN.append(AN)
- 
+
 BNN = np.array(ANN).T
 BNN = np.array(BNN).tolist()
- 
+
 flg = True
- 
+
 for j in range(N):
   for k in range(N):
     a = ANN[j][k]
